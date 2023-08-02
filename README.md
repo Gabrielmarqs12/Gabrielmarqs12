@@ -10,7 +10,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gabrielmarqs12&bg_color=0d1117&color=A9D730&line=8DB5E6&point=295C82&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Principais linguagens:
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Gabriel-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -19,9 +19,14 @@
 
 
 ### Estudando no momento:
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gabriel-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+</div>
+
+### Certificados
+<div style="display: inline_block">
+  <img align="center" alt="Cisco-badge" height="50" width="50" src="https://images.credly.com/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png">
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A9D730&height=120&section=footer"/>
