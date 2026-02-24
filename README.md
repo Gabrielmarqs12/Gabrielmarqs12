@@ -1,9 +1,15 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2986cc&height=120&section=header"/>
 
 <h1>Hi, I am Gabriel </h1>
-Data science enthusiast
 
+**Data science enthusiast** | São Paulo - Brazil
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gabrielmarqs12&fire=FF0625D8&theme=whatsapp-dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D&exclude_days=Sun)](https://git.io/streak-stats)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gabrielmarqs12&bg_color=0d1117&color=2986cc&line=8DB5E6&point=295C82&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 
 ### 👨‍💻 Programming languages and libraries
